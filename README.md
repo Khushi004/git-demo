@@ -1,3 +1,4 @@
 # git-demo
-Learning Git
+Learning Git.
+<br>
 Author-Khushi Mahajan
